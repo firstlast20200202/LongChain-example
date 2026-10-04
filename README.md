@@ -27,4 +27,6 @@ $ curl -fsSL https://ollama.com/install.sh | sh
 
 $ ollama run llama3.2:1b
 
+then you can send messages now, quit: ctrl + d
+
 
