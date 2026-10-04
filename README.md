@@ -15,4 +15,8 @@ create the Main Script (app.py)
 
 python app.py        //cost required...
 
-use Ollama
+use Ollama:
+$ curl -fsSL https://ollama.com/install.sh | sh
+$ ollama run llama3.2:1b
+
+
