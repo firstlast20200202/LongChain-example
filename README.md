@@ -31,6 +31,8 @@ then you can send messages now, quit: ctrl + d
 
 $ ollama pull mxbai-embed-large
 
+$ source ai_env/bin/activate
+
 $ pip install langchain-ollama
 
 
