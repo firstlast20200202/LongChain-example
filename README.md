@@ -40,6 +40,7 @@ update app.py
 $ python app.py    //you can ask questions by replacing the query in app.py
 
 //app.py
+
 8. Run a test query
 print("\n🤖 AI is ready. Asking question...")
 query = "hello?"
